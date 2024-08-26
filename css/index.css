@@ -1,0 +1,51 @@
+.container{
+    color: white;
+    border: 5px solid black;
+    display: flex;
+    flex-basis: 100%;
+    gap: 10px;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.organge{
+    background-color: orange;
+}
+.blue{
+    background-color: blue;
+}
+.green{background-color: green;}
+.indigo{background-color: indigo;}
+.purple{background-color: purple;}
+.top{
+    color: black;
+    border: 5px solid teal;
+    flex-direction: column;
+    gap: 10px;
+    flex-basis: 100%;
+}
+.red{background-color: red;}
+.yellow{background-color: yellow;}
+.organge{background-color: orange;}
+.blue{background-color: blue;}
+.green{background-color: green;}
+.indigo{background-color: indigo;}
+.purple{background-color: purple;}
+.wire{
+    color: #fff;
+    border: 5px solid firebrick;
+    flex-direction:column;
+    flex-basis: 100px;
+    display: inline-block;
+    /* height: 200px; */
+}
+.red{background-color: red;}
+.yellow{background-color: yellow;}
+.organge{background-color: orange;}
+.blue{background-color: blue;}
+.green{background-color: green;}
+.indigo{background-color: indigo;}
+.purple{background-color: purple;}
